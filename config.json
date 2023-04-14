@@ -1,0 +1,16 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/hotel_mdn",
+        "prod_uri": "mysql://root:@localhost/hotel_mdn",
+        "fb_url": "https://www.facebook.com/profile.php?id=100057738302871",
+        "tw_url": "https://twitter.com/chandwar_sudhir",
+        "gh_url": "https://github.com/sudhirpatel2024",
+        "in_url": "https://www.instagram.com/sudhir.kumar20202020/",
+        "blog_name": "Hotel MDN",
+        "number_of_post": 10,
+        "login_image": "bootstrap-logo.svg",
+        "admin_user": "harry",
+        "admin_password": "subscribenow"
+    }
+}
